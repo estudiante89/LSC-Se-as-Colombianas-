@@ -1,0 +1,12 @@
+flask
+flask-socketio
+numpy
+opencv-python
+tensorflow
+mediapipe
+joblib
+scikit-learn
+tensorflow==2.18.0
+tensorflow-estimator==2.13.0
+
+ 

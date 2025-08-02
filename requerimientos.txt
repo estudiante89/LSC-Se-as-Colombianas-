@@ -1,12 +1,14 @@
+python-3.10.13
 flask
 flask-socketio
 numpy
 opencv-python
 tensorflow
-mediapipe
+mediapipe==0.10.3
 joblib
 scikit-learn
 tensorflow==2.18.0
 tensorflow-estimator==2.13.0
 
  
+
